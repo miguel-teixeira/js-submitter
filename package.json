@@ -1,0 +1,8 @@
+{
+  "name": "submitter",
+  "version": "0.0.1",
+  "description": "Mass submits",
+  "main": "src/index.js",
+  "author": "Miguel Teixeira",
+  "license": "MIT"
+}
